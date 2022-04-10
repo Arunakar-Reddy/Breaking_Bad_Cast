@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Breaking_Bad_Cast/static/css/main.9dbaf8d1.css",
+    "main.js": "/Breaking_Bad_Cast/static/js/main.442ac079.js",
+    "static/media/spinner.gif": "/Breaking_Bad_Cast/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/Breaking_Bad_Cast/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/Breaking_Bad_Cast/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/Breaking_Bad_Cast/index.html",
+    "main.9dbaf8d1.css.map": "/Breaking_Bad_Cast/static/css/main.9dbaf8d1.css.map",
+    "main.442ac079.js.map": "/Breaking_Bad_Cast/static/js/main.442ac079.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dbaf8d1.css",
+    "static/js/main.442ac079.js"
+  ]
+}
